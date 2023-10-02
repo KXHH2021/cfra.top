@@ -27,3 +27,4 @@ GUI Programming: Python supports GUIs that can be created and ported to many sys
 
 Portable and embeddable: If you need a piece of critical code that runs fast, or want to write algorithms that you don't want to open up, you can do that part of the program in C or C++ and then call it from your Python program. You can also embed Python into a C/C++ program, giving users of your program the ability to "script" it.
 
+<!--more-->
