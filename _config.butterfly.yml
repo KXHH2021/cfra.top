@@ -34,7 +34,7 @@ code_word_wrap: false
 #   icon: link || the description || color
 social:
   fab fa-github: https://github.com/KXHH2021 || Github || '#24292e'
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
+  fas fa-envelope: mailto:1931378414@qq.com || Email || '#4a7dbe'
 
 # Image (圖片設置)
 # --------------------------------------
@@ -45,7 +45,7 @@ favicon: /img/favicon.png
 # Avatar (頭像)
 avatar:
   img: https://smms.app/image/F7UkSZdEK81uiB4
-  effect: false
+  effect: true
 
 # Disable all banner image
 disable_top_img: true
