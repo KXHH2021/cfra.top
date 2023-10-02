@@ -1,8 +1,3 @@
----
-title: Python3 Learning Notes - Chapter 1: Getting Started with the Basics
-date: 2023-10-2 20:08:28
-tags:
----
 I. Introduction to Python3
 To make a few points useful for programming
 
