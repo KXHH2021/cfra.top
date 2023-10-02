@@ -1,4 +1,6 @@
+---
 titel：Python3 Learning Notes - Chapter 1
+---
 I. Introduction to Python3
 To make a few points useful for programming
 
