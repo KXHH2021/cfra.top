@@ -22,7 +22,7 @@ Open a web browser and go to https://www.python.org/downloads/windows/ to downlo
 
 Press **Win+R**, type cmd to bring up the command prompt, and type python:
 
-![Snipaste_2023-10-03_11-57-54](https://cdn.jsdelivr.net/gh/KXHH2021/yyyyn@mian/img/202310031202508.png)
+![Snipaste_2023-10-03_11-57-54](https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310031334173.png)
 
 ### Installing Python3 on Unix & Linux platforms.
 
@@ -124,7 +124,7 @@ path=%path%;C:\Python
   - Then in the "Path" line, add the path to the python installation (my D:\Python32), so after that, add the path. **ps: Remember, paths are separated by a semicolon ";"! **
   - After the final setup is successful, in the cmd command line, enter the command "python", you can have the relevant display.
 
-![Snipaste_2023-10-03_12-16-52](https://cdn.jsdelivr.net/gh/KXHH2021/yyyyn@mian/img/202310031217338.png)
+![Snipaste_2023-10-03_12-16-52](https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310031335193.png)
 
 ## Running Python
 
@@ -170,4 +170,5 @@ Professional (Professional Edition, paid): full functionality, 30-day trial.
 
 Community (free): a neutered version of Professional.
 
-![Snipaste_2023-10-03_12-21-10](https://cdn.jsdelivr.net/gh/KXHH2021/yyyyn@mian/img/202310031221858.png)
+![Snipaste_2023-10-03_12-21-10](https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310031343518.png)
+
