@@ -81,11 +81,11 @@ A URL (Uniform Resource Locator) is a string used to identify and locate a resou
 
 In summary, a URL is a way to uniquely identify and locate a resource on the Internet, and its structure consists of multiple parts, each of which provides information about where the resource is located and how it can be accessed. Different protocols and applications can use different URL structures.
 
-## HTTP请求消息
+## HTTP request message
 
-HTTP请求消息是客户端发送给服务器以请求特定资源或执行特定操作的消息。HTTP请求通常由以下几个部分组成：
+An HTTP request message is a message that a client sends to a server to request a specific resource or perform a specific action.An HTTP request usually consists of the following parts:
 
-1. **请求行（Request Line）**：请求行包含请求的方法、目标URL和HTTP协议的版本。通常具有以下格式：
+1. **Request Line**：The request line contains the requested method, the destination URL, and the version of the HTTP protocol. It usually has the following format:
 
    ```
    [Request Method] [URL] [HTTP version]
