@@ -1,5 +1,5 @@
 ---
-title: Easy to build your own chatbot: ChatGPT for JAVA
+title: Easy to build your own chatbot ChatGPT for JAVA
 date: 2023-10-4 22:05:24
 categories:
   - JAVA
