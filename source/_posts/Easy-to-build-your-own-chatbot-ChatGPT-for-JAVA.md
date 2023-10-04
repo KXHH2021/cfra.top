@@ -14,7 +14,7 @@ ChatGPT is a GPT-based chatbot capable of natural language communication, perfec
 
 JAVA is a cross-platform programming language that can run on different operating systems. First, you need to download and install the JAVA Development Kit (JDK) and JAVA Integrated Development Tools (IDE), such as Eclipse or IntelliJ IDEA.These tools can help you write, run and debug JAVA applications easily.
 
-Step 2: Download and Install TensorFlow
+**Step 2: Download and Install TensorFlow**
 
 ChatGPT is based on the TensorFlow deep learning framework. First you need to install TensorFlow. There are two versions of TensorFlow: TensorFlow CPU and TensorFlow GPU. If your system does not support NVIDIA's GPU, then please download TensorFlow CPU. You can find these download links on the official TensorFlow website. 
 
@@ -75,7 +75,7 @@ sample_output = model.generate(input_ids, do_sample=True, max_length=100, top_p=
  
 return tokenizer.decode(sample_output[0], skip_special_tokens=True)
  
-print(generate_text('你好'))
+print(generate_text('hello'))
 ```
 
 Here, we use print statement to output the generated text to the console. If you want to deploy this ChatGPT on the WEB, you need to create a WEB service through a web framework such as Flask or Django.
