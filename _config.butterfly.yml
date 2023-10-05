@@ -87,7 +87,11 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-     - https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310051405042.png
+     - https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310051413637.jpg
+     - https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310051414047.jpg
+     - https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310051415910.jpg
+     - https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310051416516.jpg
+
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
