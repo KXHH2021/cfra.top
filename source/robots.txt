@@ -1,3 +1,6 @@
+# hexo robots.txt
 User-agent: *
 Allow: /
-Sitemap: https://www.cfra.top/sitemap.xml
+
+Sitemap: https://cfra.top/sitemap.xml
+Sitemap: https://cfra.top/baidusitemap.xml
