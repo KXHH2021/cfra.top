@@ -106,11 +106,17 @@ deploy:
   type: ''
 
 # 谷歌、百度站点地图生成
-Plugins:
-- hexo-generator-baidu-sitemap
-- hexo-generator-sitemap
+#Plugins:
+#- hexo-generator-baidu-sitemap
+#- hexo-generator-sitemap
 
-baidusitemap:
-    path: baidusitemap.xml
+#baidusitemap:
+   # path: baidusitemap.xml
+#sitemap:
+   # path: sitemap.xml
+# hexo sitemap配置网站地图(在hexo站的_config.yml文件添加配置)
 sitemap:
-    path: sitemap.xml
+    path: sitemap.xml # 索引地图路径
+    tag: false # 标签页不添加到网站地图中
+    category: false # 分类页不添加到网站地图中
+
