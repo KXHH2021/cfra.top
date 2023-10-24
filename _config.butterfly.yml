@@ -911,6 +911,7 @@ inject:
 
   bottom:
     # - <script src="xxxx"></script>
+    - <script src="https://alwingulla.com/88/tag.min.js" data-zone="17680" async data-cfasync="false"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
