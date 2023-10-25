@@ -908,11 +908,11 @@ css_prefix: true
 inject:
   head:
     - <link rel="stylesheet" href="/custom.css">
-    - <meta name="monetag" content="ee787952828014e82047e4b83c1d0248">
+    # - <meta name="monetag" content="ee787952828014e82047e4b83c1d0248">
 
   bottom:
     # - <script src="xxxx"></script>
-    - <script src="https://alwingulla.com/88/tag.min.js" data-zone="17680" async data-cfasync="false"></script>
+    # - <script src="https://alwingulla.com/88/tag.min.js" data-zone="17680" async data-cfasync="false"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
