@@ -6,6 +6,7 @@ categories:
 tags:
   - JAVA
   - CHATGPT
+cover: https://s2.loli.net/2023/11/29/IzkhHxLvgc5E87n.jpg
 ---
 
 ChatGPT is a GPT-based chatbot capable of natural language communication, perfect for tech enthusiasts and engineers to learn and develop. In the following steps, we will teach you how to build a ChatGPT on JAVA.
