@@ -239,7 +239,7 @@ aside:
       link: https://github.com/KXHH2021
   card_announcement:
     enable: true
-    content: This is a blog about programming
+    content: Welcome to kxhh's Learning to Code Diary, where I'll share my learning tips and some interesting coding tips
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
