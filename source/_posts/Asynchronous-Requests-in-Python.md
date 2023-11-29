@@ -5,6 +5,7 @@ categories:
   - Tips for using python
 tags:
   - python
+cover: https://s2.loli.net/2023/11/29/pLr19tGWbOHzqN2.png
 ---
 
 ## Asynchronous requests in Python
