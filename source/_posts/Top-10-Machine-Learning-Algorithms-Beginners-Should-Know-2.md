@@ -5,6 +5,7 @@ categories:
   - machine learning
 tags:
   - machine learning
+cover: https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310042121786.png
 ---
 
 ## Linear Discriminant Analysis
