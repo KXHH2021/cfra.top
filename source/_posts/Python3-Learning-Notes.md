@@ -2,7 +2,7 @@
 title: Python3-Learning-Notes-1
 date: 2023-10-2 22:04:56
 description: Python3
-
+cover: https://s2.loli.net/2023/11/29/pLr19tGWbOHzqN2.png
 ---
 
 I. Introduction to Python3
