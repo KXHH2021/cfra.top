@@ -3,7 +3,7 @@
 # --------------------------------------
 
 nav:
-  logo: /img/favicon.png # image
+  logo: /img/111.png # image
   display_title: true
   fixed: false # fixed navigation bar
 
