@@ -5,9 +5,9 @@ categories:
   - Meta Quest 3
 tags:
   - wearable
-cover: https://img1.imgtp.com/2023/10/09/4LxpHab4.jpg
+cover: https://s2.loli.net/2023/11/29/yck8YSJ3djsqO6X.jpg
 ---
-
+![aSJzpa3zrqDTA4CtDntbWG-1200-80.jpg](https://s2.loli.net/2023/11/29/yck8YSJ3djsqO6X.jpg)
 Meta opens pre-orders for the Quest3 headset.
 The device is powered by Qualcomm Snapdragon XR2 Gen 2 chip.
 The Meta Quest3 will begin shipping on October 10th and is now available for full pre-order via the official website:
