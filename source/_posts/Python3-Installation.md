@@ -6,6 +6,7 @@ categories:
 tags:
   - Python3
 description: Helps you install Python
+cover: https://s2.loli.net/2023/11/29/pLr19tGWbOHzqN2.png
 ---
 
 ## Python3 Installation
