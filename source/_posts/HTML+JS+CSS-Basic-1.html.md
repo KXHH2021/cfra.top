@@ -8,7 +8,7 @@ tags:
   - HTML
   - JS
 description: This article serves as a dictionary for my own work and study, so readers are welcome to bookmark and use it. The author is a back-end development front-end dabbling is not deep, so the article focuses on the breadth and practicality, the principle and performance will not be too much in-depth.
-cover https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310032010660.jpg
+cover: https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310032010660.jpg
 ---
 
 ![html-css-javascript](https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310032010660.jpg)
