@@ -804,7 +804,7 @@ fancybox: true
 # abcjs (樂譜渲染)
 # See https://github.com/paulrosen/abcjs
 abcjs:
-  enable: false
+  enable: true
   per_page: true
 
 # mermaid
