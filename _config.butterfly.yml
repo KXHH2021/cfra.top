@@ -236,7 +236,7 @@ aside:
       enable: true
       icon: fa fa-commenting
       text: Follow Me
-      url: mailto:kxhh2025@gmail.com
+      link: https://github.com/KXHH2021
   card_announcement:
     enable: true
     content: Welcome to kxhh's Learning to Code Diary, where I'll share my learning tips and some interesting coding tips
