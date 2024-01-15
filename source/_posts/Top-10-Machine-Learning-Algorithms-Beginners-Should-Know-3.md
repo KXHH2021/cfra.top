@@ -1,11 +1,13 @@
 ---
 title: Top-10-Machine-Learning-Algorithms-Beginners-Should-Know-3
-date: 2023-10-4 21:24:58
 categories:
   - machine learning
 tags:
   - machine learning
-cover: https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310042127654.png
+cover: >-
+  https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310042127654.png
+abbrlink: 50506
+date: 2023-10-04 21:24:58
 ---
 
 ## Plain Bayes

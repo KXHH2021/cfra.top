@@ -1,12 +1,13 @@
 ---
 title: mysql的npm包安装
-date: 2024-1-4 09:57:03
 categories:
   - install mysql
 tags:
   - mysql
-
-cover: https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202401040958001.png
+cover: >-
+  https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202401040958001.png
+abbrlink: 58313
+date: 2024-01-04 09:57:03
 ---
 
 #### 1.wget

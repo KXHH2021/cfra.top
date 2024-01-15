@@ -1,11 +1,12 @@
 ---
 title: Meta Quest 3 Release Date and Price Announced
-date: 2023-10-9 15:35:00）
+date: '2023-10-9 15:35:00'
 categories:
   - Meta Quest 3
 tags:
   - wearable
-cover: https://s2.loli.net/2023/11/29/yck8YSJ3djsqO6X.jpg
+cover: 'https://s2.loli.net/2023/11/29/yck8YSJ3djsqO6X.jpg'
+abbrlink: 40680
 ---
 ![aSJzpa3zrqDTA4CtDntbWG-1200-80.jpg](https://s2.loli.net/2023/11/29/yck8YSJ3djsqO6X.jpg)
 Meta opens pre-orders for the Quest3 headset.

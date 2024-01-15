@@ -1,11 +1,12 @@
 ---
 title: How to link a VMware virtual machine with ssh
-date: 2023-10-4 22:28:06
 categories:
   - tutorials
 tags:
   - virtual machine
   - linux
+abbrlink: 7310
+date: 2023-10-04 22:28:06
 ---
 
 ## I. Configuration environment

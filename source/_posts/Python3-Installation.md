@@ -1,12 +1,13 @@
 ---
 title: Python3 Installation
-date: 2023-10-3 10:01:02
 categories:
   - tutorials
 tags:
   - Python3
 description: Helps you install Python
-cover: https://s2.loli.net/2023/11/29/pLr19tGWbOHzqN2.png
+cover: 'https://s2.loli.net/2023/11/29/pLr19tGWbOHzqN2.png'
+abbrlink: 50616
+date: 2023-10-03 10:01:02
 ---
 
 ## Python3 Installation

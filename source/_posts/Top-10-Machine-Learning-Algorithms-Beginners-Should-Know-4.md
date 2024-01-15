@@ -1,11 +1,13 @@
 ---
 title: Top-10-Machine-Learning-Algorithms-Beginners-Should-Know-4
-date: 2023-10-4 21:36:26
 categories:
   - machine learning
 tags:
   - machine learning
-cover: https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310042140398.png
+cover: >-
+  https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310042140398.png
+abbrlink: 1803
+date: 2023-10-04 21:36:26
 ---
 
 ## Learning Vector Quantization (LVQ)

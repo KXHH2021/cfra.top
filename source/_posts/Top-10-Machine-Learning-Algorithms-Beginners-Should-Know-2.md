@@ -1,11 +1,13 @@
 ---
 title: Top-10-Machine-Learning-Algorithms-Beginners-Should-Know-2
-date: 2023-10-4 21:18:25
 categories:
   - machine learning
 tags:
   - machine learning
-cover: https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310042121786.png
+cover: >-
+  https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310042121786.png
+abbrlink: 1419
+date: 2023-10-04 21:18:25
 ---
 
 ## Linear Discriminant Analysis

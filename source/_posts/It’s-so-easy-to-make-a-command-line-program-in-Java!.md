@@ -1,12 +1,14 @@
 ---
 title: It’s so easy to make a command line program in Java!
-date: 2023-11-22 18:26:45
 categories:
   - java
 tags:
   - java
 description: java simple tutorial
-cover: https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202311221828836.png
+cover: >-
+  https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202311221828836.png
+abbrlink: 63257
+date: 2023-11-22 18:26:45
 ---
 
 Picocli is the most complete and easiest-to-use command line development framework in Java that I personally think can help everyone quickly develop command line tools.

@@ -1,14 +1,20 @@
 ---
 title: HTML+JS+CSS Basic-3.css
-date: 2023-10-3 21:58:38
 categories:
   - Study Tutorials
 tags:
   - CSS
   - HTML
   - JS
-description: This article serves as a dictionary for my own work and study, so readers are welcome to bookmark and use it. The author is a back-end development front-end dabbling is not deep, so the article focuses on the breadth and practicality, the principle and performance will not be too much in-depth.
-cover: https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310032010660.jpg
+description: >-
+  This article serves as a dictionary for my own work and study, so readers are
+  welcome to bookmark and use it. The author is a back-end development front-end
+  dabbling is not deep, so the article focuses on the breadth and practicality,
+  the principle and performance will not be too much in-depth.
+cover: >-
+  https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310032010660.jpg
+abbrlink: 50725
+date: 2023-10-03 21:58:38
 ---
 
 ![](https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310032010660.jpg)

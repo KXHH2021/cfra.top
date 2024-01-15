@@ -1,11 +1,12 @@
 ---
 title: Asynchronous Requests in Python
-date: 2023-10-4 14:22:57
 categories:
   - Tips for using python
 tags:
   - python
-cover: https://s2.loli.net/2023/11/29/pLr19tGWbOHzqN2.png
+cover: 'https://s2.loli.net/2023/11/29/pLr19tGWbOHzqN2.png'
+abbrlink: 5457
+date: 2023-10-04 14:22:57
 ---
 
 ## Asynchronous requests in Python

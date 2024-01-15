@@ -1,10 +1,11 @@
 ---
 title: Introduction to the HTTP protocol
-date: 2023-10-4 18:14:13
 categories:
   - HTTP protocol
 tags:
-  - HTTP protocol  
+  - HTTP protocol
+abbrlink: 7841
+date: 2023-10-04 18:14:13
 ---
 
 ## Introduction to HTTP Protocol

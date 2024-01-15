@@ -1,11 +1,11 @@
 ---
 title: Zombie Process Creation and Handling
-date: 2023-10-4 14:56:30
 categories:
   - linux
 tags:
   - linux
-
+abbrlink: 60836
+date: 2023-10-04 14:56:30
 ---
 
 Zombie Process is a child process that has finished execution in the operating system, but its parent process has not yet called wait() or waitpid() to get its termination status. When a process ends, the operating system will keep some basic information of the process, including process ID (PID), exit status, etc. for the parent process to query. And if the parent process does not take the initiative to call the above function to retrieve the status of the process, then the information of this process will always exist in the operating system's process table, becoming a zombie process.
