@@ -21,7 +21,7 @@ cover: https://cdn.jsdelivr.net/gh/KXHH2021/seveimg@main/img/bus1.4aughhphiyw0.w
 
 我们不妨仔细查看
 
-[YOLOv8的官方文档]: https://docs.ultralytics.com/zh
+YOLOv8的官方文档: https://docs.ultralytics.com/zh
 
 就会有所收获：
 
