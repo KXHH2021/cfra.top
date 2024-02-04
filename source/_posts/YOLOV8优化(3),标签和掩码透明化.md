@@ -58,4 +58,4 @@ cv2.putText(overlay,
 
 直接修改`def masks(self, masks, colors, im_gpu, alpha=0.3, retina_masks=False):`的`alpha`的值即可
 
-![image-20240204151916551](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20240204151916551.png)
+![]((https://cdn.jsdelivr.net/gh/KXHH2021/seveimg@main/img/image.1rlsp7d778jk.webp)https://cdn.jsdelivr.net/gh/KXHH2021/seveimg@main/img/image.1rlsp7d778jk.webp)
