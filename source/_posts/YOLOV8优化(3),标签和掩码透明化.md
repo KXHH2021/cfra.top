@@ -57,5 +57,5 @@ cv2.putText(overlay,
 如果只要改变掩码的透明度，以上步骤不用做。
 
 直接修改`def masks(self, masks, colors, im_gpu, alpha=0.3, retina_masks=False):`的`alpha`的值即可
-![]([https://cdn.jsdelivr.net/gh/KXHH2021/seveimg@main/img/image.1twi923dkosg.webp](https://cdn.jsdelivr.net/gh/KXHH2021/seveimg@main/img/image.1rlsp7d778jk.webp)https://cdn.jsdelivr.net/gh/KXHH2021/seveimg@main/img/image.1rlsp7d778jk.webp)
+![](https://cdn.jsdelivr.net/gh/KXHH2021/seveimg@main/img/image.1rlsp7d778jk.webp)
 
