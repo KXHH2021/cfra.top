@@ -569,7 +569,7 @@ baidu_analytics:
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
-google_analytics: G-GH57W2ZTVM
+google_analytics: G-F3SJGMGEKZ
 
 # Cloudflare Analytics
 # https://www.cloudflare.com/zh-tw/web-analytics/
@@ -587,7 +587,7 @@ google_adsense:
   enable: false
   auto_ads: true
   js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
-  client: ca-pub-5281252809215100
+  client: ca-pub-9986556669801460
   enable_page_level_ads: true
 
 # Insert ads manually (手動插入廣告)
