@@ -587,7 +587,7 @@ google_adsense:
   enable: false
   auto_ads: true
   js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
-  client: ca-pub-9986556669801460
+  client: ca-pub-9555136258724083
   enable_page_level_ads: true
 
 # Insert ads manually (手動插入廣告)
