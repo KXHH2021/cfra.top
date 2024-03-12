@@ -740,7 +740,7 @@ font:
 
 # Font settings for the site title and site subtitle
 # 左上角網站名字 主頁居中網站名字
-blog_title_font: 测试
+blog_title_font: "测试"
   font_link:
   font-family:
 
