@@ -583,18 +583,18 @@ microsoft_clarity:
 # --------------------------------------
 
 # Google Adsense (谷歌廣告)
-google_adsense:
-  enable: true
-  auto_ads: true
-  js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
-  client: ca-pub-9555136258724083
-  enable_page_level_ads: true
+# google_adsense:
+#  enable: true
+#  auto_ads: true
+#  js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+#  client: ca-pub-9555136258724083
+#  enable_page_level_ads: true
 
 # Insert ads manually (手動插入廣告)
-ad:
-   index: <ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-9555136258724083" data-ad-slot="8409402004"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-   aside: <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article"data-ad-format="fluid" data-ad-client="ca-pub-9555136258724083"data-ad-slot="5816195542"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-   post: <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9555136258724083" data-ad-slot="1234786857" data-ad-format="auto"data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+# ad:
+#   index: <ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-9555136258724083" data-ad-slot="8409402004"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+#   aside: <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article"data-ad-format="fluid" data-ad-client="ca-pub-9555136258724083"data-ad-slot="5816195542"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+#   post: <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9555136258724083" data-ad-slot="1234786857" data-ad-format="auto"data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 
 # Verification (站長驗證)
